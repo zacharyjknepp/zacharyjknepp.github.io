@@ -7,6 +7,4 @@ I'm a 4th year PhD student in the [Fredin Group](https://sites.google.com/lehigh
 
 <embed src= "Zachary_Knepp_CV.pdf" type="application/pdf" width= "100%" height= "375" wmode=opaque>
 
-<object data="Zachary_Knepp_CV.pdf" type="application/pdf" width="100%" height="100%">
-  <p>Alternative text - include a link <a href="Zachary_Knepp_CV.pdf">to the PDF!</a></p>
-</object>
+<iframe src="Zachary_Knepp_CV.pdf" width="auto" height="auto"> </iframe>
